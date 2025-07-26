@@ -82,4 +82,4 @@ Highest Profit-Generating Products:
   - Deck of Cards - 84K units
   - Magic Sand - 61K units
  
-  - ![image alt]()
+  - ![image alt](https://github.com/Databisola/Power-BI-Project/blob/821ec414f0772aad0395a16b82cfb2fed124d7fe/Annotation%202025-07-26%20213049.png)
